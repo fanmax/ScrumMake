@@ -1,2 +1,2 @@
 # ScrumMake
-Scrum Make -  Controle de projetos em equipe.
+Scrum Maker -  Controle de projetos em equipe.
